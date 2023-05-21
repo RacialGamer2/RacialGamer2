@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/574284765901881356)](https://discord.com/users/574284765901881356)
+[![Discord Presence](https://lanyard.cnrad.dev/api/574284765901881356??theme=light&bg=141328&animated=true&borderRadius=30px&hideTimestamp=true)](https://discord.com/users/574284765901881356)
 <!--
 **RacialGamer/RacialGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
