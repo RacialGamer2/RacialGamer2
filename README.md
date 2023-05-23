@@ -9,7 +9,7 @@
 <h2 align="center">👨‍💻 My Mods 👨‍💻</h2> 
  <br> 
  <div width="100%" align="center"> 
-   <a align="left" href="https://github.com/RacialGamer/Small-pop-mod" title="Small Pop Mod"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=racialgamer&repo=Small-pop-mod&theme=react&border_color=141328&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+   <a align="left" href="https://github.com/RacialGamer/Small-pop-mod" title="Small Pop Mod"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=racialgamer&repo=Small-pop-mod&theme=react&border_color=141328&border_radius=10"></a><a align="right" href="https://github.com/RacialGamer/UpsideDownPlayers" title="UpsideDown Players"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=racialgamer&repo=UpsideDownPlayers&theme=react&border_color=141328&border_radius=10"></a>
 
 
 <!--
